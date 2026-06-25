@@ -58,9 +58,6 @@ The launcher does not download mods, detect dependencies, or guess load order. Y
 ~/.config/doom-lazy-launcher/config.txt
 ```
 
-## Full-Disclosure
-Ai was used to create this
-
 ## Build from source
 
 ```sh
@@ -68,3 +65,7 @@ cc -std=c99 -Wall -Wextra -O2 -o DoomLazyLauncher doom_lazy_launcher_v0_3.c
 ```
 
 No third-party libraries are required.
+
+## Full-Disclosure
+Ai was used to create this
+
