@@ -63,9 +63,12 @@ The launcher does not download mods, detect dependencies, or guess load order. Y
 ```sh
 chmod +x build.sh
 ./build.sh
+```
+
+The built executable will be placed at:
+
+```text
+build/DoomLazyLauncher
+```
 
 No third-party libraries are required.
-
-## Full-Disclosure
-Ai was used to create this
-
