@@ -2,7 +2,7 @@
 set -eu
 
 APP_NAME="DoomLazyLauncher"
-SRC="src/doom_lazy_launcher.c"
+SRC="src/doom_lazy_launcher_v0_3.c"
 BUILD_DIR="build"
 OUT="$BUILD_DIR/$APP_NAME"
 
