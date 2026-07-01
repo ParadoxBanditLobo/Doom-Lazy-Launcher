@@ -1,0 +1,29 @@
+# Build output
+build/
+dist/
+release/
+
+# Compiled binaries
+DoomLazyLauncher
+DoomLazyLauncher-*
+*.o
+*.out
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tar.xz
+*.7z
+
+# Local editor/system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs/temp
+*.log
+*.tmp
+*.bak
