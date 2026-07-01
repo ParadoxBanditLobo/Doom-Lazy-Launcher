@@ -61,8 +61,8 @@ The launcher does not download mods, detect dependencies, or guess load order. Y
 ## Build from source
 
 ```sh
-cc -std=c99 -Wall -Wextra -O2 -o DoomLazyLauncher doom_lazy_launcher_v0_3.c
-```
+chmod +x build.sh
+./build.sh
 
 No third-party libraries are required.
 
